@@ -26,7 +26,7 @@ Thanks!
 
 ## Installation
 
-**Note:** Installation differs by platform. Claude Code or Cursor have built-in plugin marketplaces. Codex and OpenCode require manual setup.
+**Note:** Installation differs by platform. Claude Code or Cursor have built-in plugin marketplaces. Codex and OpenCode require manual setup. For organizations that need to install from a private fork or internal mirror, see [docs/README.self-hosting.md](docs/README.self-hosting.md).
 
 ### Claude Code Official Marketplace
 
