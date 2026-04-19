@@ -14,7 +14,7 @@ Submit a request to your IT helpdesk to whitelist `claude.com` (and `claude.ai` 
 
 What to ask for:
 - Unblock `claude.com` and `claude.ai`
-- Or allow the "Developer Tools" / "AI Applications" category for your user account
+- Or allow the "Developer Tools" / "AI/ML Applications" category for your user account
 
 ### Option 2: Use Claude in the browser
 
